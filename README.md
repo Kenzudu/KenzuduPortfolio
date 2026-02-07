@@ -50,9 +50,6 @@ Here you'll find my academic and personal projects related to:
 <<img src="images/Introduction to Cybersec Saluba cert.jpg" width="700"/> 
 <img src="images/computer-hardware-cert.jpg" width="700"/>
 
-### Cisco Networking Academy
-<img src="images/cisco-cert.jpg" width="600"/>
-
 ### EARIST Certificates
 <img src="images/earist-cert1.jpg" width="500"/>
 <img src="images/earist-cert2.jpg" width="500"/>
