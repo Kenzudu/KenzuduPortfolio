@@ -1,9 +1,13 @@
+<div align="center">
+
 # My Portfolio
+
+</div>
 
 ## Hi, I'm Rafael Kenneth F. Saluba
 
-Bachelor of Science in Information Technology (BSIT)  
-Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)
+**Bachelor of Science in Information Technology (BSIT)**  
+**Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)**
 
 ---
 
