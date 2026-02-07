@@ -47,8 +47,8 @@ Here you'll find my academic and personal projects related to:
 <div align="center">
 
 ### Cisco Networking Academy
-<<img src="images/Introduction to Cybersec Saluba cert.jpg" width="700"/> 
-<img src="images/computer-hardware-cert.jpg" width="700"/>
+<<img src="images/Introduction to Cybersec Saluba cert.jpg" width="500"/> 
+<img src="images/computer-hardware-cert.jpg" width="500"/>
 
 ### Webinar Certificates
 <img src="images/GENERATIVEAI.jpg" width="500"/>
