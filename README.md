@@ -46,17 +46,19 @@ Here you'll find my academic and personal projects related to:
 
 <div align="center">
 
+### Computer Hardware Basics
+<img src="images/computer-hardware-cert.jpg" width="600"/>
+
 ### Cisco Networking Academy
-![Cisco Certificate](images/cisco-certificate.jpg)
+<img src="images/cisco-cert.jpg" width="600"/>
 
 ### EARIST Certificates
-<img src="images/earist-cert1.jpg" width="400"/>
-<img src="images/earist-cert2.jpg" width="400"/>
+<img src="images/earist-cert1.jpg" width="500"/>
+<img src="images/earist-cert2.jpg" width="500"/>
 
 ### Other Certifications
-<img src="images/cert1.jpg" width="300"/>
-<img src="images/cert2.jpg" width="300"/>
-<img src="images/cert3.jpg" width="300"/>
-<img src="images/cert4.jpg" width="300"/>
+<img src="images/cert1.jpg" width="400"/>
+<img src="images/cert2.jpg" width="400"/>
 
 </div>
+
