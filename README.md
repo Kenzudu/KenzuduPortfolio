@@ -13,7 +13,10 @@
 
 ## About Me
 
-I am a motivated BSIT student with hands-on experience in web and mobile application development. I enjoy building systems that solve real-world problems and continuously improving my programming skills through projects and collaboration.
+Im a 4th-year BSIT student at EARIST with technical skills in web technologies, and I am continuously learning and
+improving my knowledge. I have experience in building responsive websites, and using hardwares, and utilizing modern
+tools and platforms. I am eager to apply my knowledge, strengthen my skills, and gain hands-on experience in real-world IT
+environments through my OJT
 
 ---
 
