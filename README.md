@@ -50,13 +50,9 @@ Here you'll find my academic and personal projects related to:
 <<img src="images/Introduction to Cybersec Saluba cert.jpg" width="700"/> 
 <img src="images/computer-hardware-cert.jpg" width="700"/>
 
-### EARIST Certificates
+### Webinar Certificates
 <img src="images/earist-cert1.jpg" width="500"/>
 <img src="images/earist-cert2.jpg" width="500"/>
-
-### Other Certifications
-<img src="images/cert1.jpg" width="400"/>
-<img src="images/cert2.jpg" width="400"/>
 
 </div>
 
