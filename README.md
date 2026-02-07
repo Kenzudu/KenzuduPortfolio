@@ -46,9 +46,9 @@ Here you'll find my academic and personal projects related to:
 
 <div align="center">
 
-### Computer Hardware Basics
-<<img src="images/Introduction to Cybersec Saluba cert.jpg" width="1000"/> 
-<img src="images/computer-hardware-cert.jpg" width="1000"/>
+### Cisco Networking Academy
+<<img src="images/Introduction to Cybersec Saluba cert.jpg" width="700"/> 
+<img src="images/computer-hardware-cert.jpg" width="700"/>
 
 ### Cisco Networking Academy
 <img src="images/cisco-cert.jpg" width="600"/>
