@@ -51,8 +51,10 @@ Here you'll find my academic and personal projects related to:
 <img src="images/computer-hardware-cert.jpg" width="700"/>
 
 ### Webinar Certificates
-<img src="images/earist-cert1.jpg" width="500"/>
-<img src="images/earist-cert2.jpg" width="500"/>
+<img src="GENERATIVEAI.jpg" width="500"/>
+<img src="Projectmethodologies.jpg" width="500"/>
+<img src="Security.jpg" width="500"/>
+<img src="Servicenow.jpg" width="500"/>
 
 </div>
 
