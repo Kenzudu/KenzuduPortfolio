@@ -26,9 +26,7 @@ Here you'll find my academic and personal projects related to:
 
 ### Web-Based Systems
 - **EARIST OJT Management System** - AI-powered internship management platform with QR code evaluation, 2FA authentication, and multi-role dashboards (Admin, Coordinator, Supervisor, Student)
-- Full-stack development using Django and React
-- Features include AI-powered internship matching, automated grading, and real-time analytics
-
+- Features include AI-powered internship matching, automated grading
 ### Mobile Applications
 - Mobile-responsive web applications
 - Cross-platform development
