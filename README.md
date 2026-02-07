@@ -43,3 +43,20 @@ Here you'll find my academic and personal projects related to:
 # My Certificates
 
 </div>
+
+<div align="center">
+
+### Cisco Networking Academy
+![Cisco Certificate](images/cisco-certificate.jpg)
+
+### EARIST Certificates
+<img src="images/earist-cert1.jpg" width="400"/>
+<img src="images/earist-cert2.jpg" width="400"/>
+
+### Other Certifications
+<img src="images/cert1.jpg" width="300"/>
+<img src="images/cert2.jpg" width="300"/>
+<img src="images/cert3.jpg" width="300"/>
+<img src="images/cert4.jpg" width="300"/>
+
+</div>
