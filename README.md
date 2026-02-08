@@ -3,9 +3,13 @@
 # My Portfolio
 
 </div>
+
 <div align="center">
+  
 ## Hi, I'm Rafael Kenneth F. Saluba
+
   </div>
+  
 <p align="center">
 BSIT Student • EARIST Manila • OJT Applicant
 ## Education
