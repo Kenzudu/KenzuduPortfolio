@@ -5,7 +5,7 @@
 </div>
 
 ## Hi, I'm Rafael Kenneth F. Saluba
-## 🎓 Education
+## Education
 
 **Bachelor of Science in Information Technology (BSIT)**  
 **Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)**
