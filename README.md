@@ -77,6 +77,7 @@ Here you'll find my academic and personal projects related to:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
 <img src="https://i.pinimg.com/originals/a8/53/14/a8531424a5fac660e4261f72ca817141.png" alt="vscode" width="45" height="45"/>
 <img src="https://seeklogo.com/images/H/hyper-logo-C3FD37FA76-seeklogo.com.png" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
