@@ -5,6 +5,8 @@
 </div>
 
 ## Hi, I'm Rafael Kenneth F. Saluba
+<p align="center">
+BSIT Student • EARIST Manila • OJT Applicant
 ## Education
 
 **Bachelor of Science in Information Technology (BSIT)**  
