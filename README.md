@@ -58,4 +58,8 @@ Here you'll find my academic and personal projects related to:
 
 </div>
 
-# Tools that i used 
+
+<div align="center">
+# Tools
+
+</div>
