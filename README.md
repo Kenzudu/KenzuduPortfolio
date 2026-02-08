@@ -83,7 +83,7 @@ Here you'll find my academic and personal projects related to:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGRc8VKGVN024ktFZzQ5HJTta8jA3qj9YzWAEXR-F6945gpP7LgRF1FWaenam2v5bJzA&amp;usqp=CAU" alt="Python Django Logo" width="45" height="45"/>
 <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="45" height="45"/>
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" alt="ngrok" width="165" height="auto"/>
+<img src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" alt="ngrok" width="100" height="auto"/>
 <img src="https://curity.io/images/resources/tutorials/deploy/tutorials-ngrok.png" alt="ngrok" width="165" height="auto"/>
 <img src="https://1000logos.net/wp-content/uploads/2024/09/Figma-Logo.jpg" alt="ngrok" width="130" height="auto"/>
 <img width="90" height="auto" alt="image" src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403" />
