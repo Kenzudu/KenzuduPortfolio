@@ -78,10 +78,10 @@ Here you'll find my academic and personal projects related to:
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <p align="center">
-<img src="https://i.pinimg.com/originals/a8/53/14/a8531424a5fac660e4261f72ca817141.png" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGRc8VKGVN024ktFZzQ5HJTta8jA3qj9YzWAEXR-F6945gpP7LgRF1FWaenam2v5bJzA&amp;usqp=CAU" alt="Python Django Logo" width="45" height="45"/>
-<img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="45" height="45"/>
+<img src="https://i.pinimg.com/originals/a8/53/14/a8531424a5fac660e4261f72ca817141.png" alt="vscode" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGRc8VKGVN024ktFZzQ5HJTta8jA3qj9YzWAEXR-F6945gpP7LgRF1FWaenam2v5bJzA&amp;usqp=CAU" alt="Python Django Logo" width="65" height="65"/>
+<img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="65" height="65"/>
 <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" alt="ngrok" width="100" height="auto"/>
 <img src="https://curity.io/images/resources/tutorials/deploy/tutorials-ngrok.png" alt="ngrok" width="165" height="auto"/>
