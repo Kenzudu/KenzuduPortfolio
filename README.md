@@ -82,7 +82,7 @@ Here you'll find my academic and personal projects related to:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGRc8VKGVN024ktFZzQ5HJTta8jA3qj9YzWAEXR-F6945gpP7LgRF1FWaenam2v5bJzA&amp;usqp=CAU" alt="Python Django Logo" width="65" height="65"/>
 <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="65" height="65"/>
-<img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="65" height="65"/>
+<img src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" alt="Vercel" width="65" height="65"/>
 <div align="center">
 <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.388.0/1761326434179/Microsoft.VisualStudio.Services.Icons.Default" alt="ngrok" width="100" height="auto"/>
 <img src="https://curity.io/images/resources/tutorials/deploy/tutorials-ngrok.png" alt="ngrok" width="165" height="auto"/>
