@@ -56,10 +56,9 @@ Here you'll find my academic and personal projects related to:
 <img src="images/Security.jpg" width="400"/>
 <img src="images/Servicenow.jpg" width="400"/>
 
-</div>
-
 
 <div align="center">
-# Tools
+
+# Tool
 
 </div>
