@@ -51,10 +51,10 @@ Here you'll find my academic and personal projects related to:
 <img src="images/computer-hardware-cert.jpg" width="700"/>
 
 ### Webinar Certificates
-<img src="images/GENERATIVEAI.jpg" width="500"/>
-<img src="images/Projectmethodologies.jpg" width="500"/>
-<img src="images/Security.jpg" width="500"/>
-<img src="images/Servicenow.jpg" width="500"/>
+<img src="images/GENERATIVEAI.jpg" width="400"/>
+<img src="images/Projectmethodologies.jpg" width="400"/>
+<img src="images/Security.jpg" width="400"/>
+<img src="images/Servicenow.jpg" width="400"/>
 
 </div>
 
