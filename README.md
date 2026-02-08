@@ -90,7 +90,6 @@ Here you'll find my academic and personal projects related to:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVzj5k7PuDh5sjvbbkDMU-yDUoSye36qlkDgbP2qVtkUh9CWXPscJVIEVoxKdjZgnzzA&usqp=CAU" alt="zeet" width="45" height="45"/>
 <div align="center">
 <img src="https://media.licdn.com/dms/image/C561BAQHDnw3jPc3HsA/company-background_10000/0/1588183934551/pythonanywhere_cover?e=2147483647&v=beta&t=BTrp5lz4RhgRYVIWpbpPpQKnf7ULDxbYM57GV47pA_A" alt="pythonanywhere" width="180" height="auto"/>
-<img src="https://linuxiac.b-cdn.net/wp-content/uploads/2022/03/ubuntu-logo.png" alt="ubunta" width="130" height="auto"/> 
 <img src="https://curity.io/images/resources/tutorials/deploy/tutorials-ngrok.png" alt="ngrok" width="165" height="auto"/>
 <img src="https://1000logos.net/wp-content/uploads/2024/09/Figma-Logo.jpg" alt="ngrok" width="130" height="auto"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROhOqtIwKwqkbTYqQ4lTST_hdBHKTT8baWKg&s" alt="ngrok" width="70" height="auto"/>
