@@ -11,7 +11,8 @@
   </div>
   
 <p align="center">
-BSIT Student • EARIST Manila • OJT Applicant
+
+## BSIT Student • EARIST Manila • OJT/Intern Applicant
   
 ## Education
 
