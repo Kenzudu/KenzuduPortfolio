@@ -107,14 +107,14 @@ Here you'll find my academic and personal projects related to:
   
  Capstone:AI Powered Internship System for Eulogio “Amang” Rodriguez Institute of Science and Technology - Manila
 
-  <img src="images/EARIST1.jpg" width="450" style="margin: 10px;">
-  <img src="images/EARIST2.jpg" width="450" style="margin: 10px;">
-  <img src="images/EARIST3.jpg" width="450" style="margin: 10px;">
-  <img src="images/EARIST4.jpg" width="450" style="margin: 10px;">
-  <img src="images/EARIST5.jpg" width="450" style="margin: 10px;">
-  <img src="images/EARIST6.jpg" width="450" style="margin: 10px;">
-  <img src="images/EARIST7.jpg" width="450" style="margin: 10px;">
-  <img src="images/EARIST8.jpg" width="450" style="margin: 10px;">
+  <img src="images/EARIST1.jpg" width="350" style="margin: 10px;">
+  <img src="images/EARIST2.jpg" width="350" style="margin: 10px;">
+  <img src="images/EARIST3.jpg" width="350" style="margin: 10px;">
+  <img src="images/EARIST4.jpg" width="350" style="margin: 10px;">
+  <img src="images/EARIST5.jpg" width="350" style="margin: 10px;">
+  <img src="images/EARIST6.jpg" width="350" style="margin: 10px;">
+  <img src="images/EARIST7.jpg" width="350" style="margin: 10px;">
+  <img src="images/EARIST8.jpg" width="350" style="margin: 10px;">
 
   <p style="margin-top:15px;">
     This system is designed to help OJT/Intern students match their course and skills based on the job that they need.
