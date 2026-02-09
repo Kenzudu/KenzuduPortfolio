@@ -102,3 +102,148 @@ Here you'll find my academic and personal projects related to:
 
   
 </div>
+
+   <br>
+   <hr>
+   <h3 align="center">My Projects</h3>
+   <table align="center">
+      <tr>
+     <td align="center">
+Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation System
+   <div align="center"   justify-content: center;">
+  <img src="https://github.com/ragnvindr08/imagesrc/blob/main/610587319_1590886205280174_8160895672511828396_n.png" width="380" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/610747088_1370355281025682_1225899929002174405_n.png" width="320" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/611128225_2885709748286634_4991605091445512007_n.png" width="350" style="margin: 10px;">
+  <img src="https://github.com/ragnvindr08/imagesrc/blob/main/619725457_906689418374717_7797343942134035975_n.png?raw=true" width="430" style="margin: 10px;">
+  </td>
+   </tr>  
+</table>
+</div>
+
+
+   <table align="center">
+            <tr>
+     <td align="center">
+        AgriAssist: A Mobile-Based Support Tool and Information
+   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/77b5038b-2370-409f-8718-7675414407a4.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/b462a168-a79c-4093-b2f1-0b45a918559e.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/0524148d-abe1-4ca4-85f1-a421e001b5a6.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/385dd470-20ed-4f89-9a40-fab840365b48.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/62e4ea98-5680-4bac-87a2-7c6bc3fc9d9d.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/680e4820-bd00-440e-a3c9-410d31793acb.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/87ce681d-be69-4bbc-8450-67493b524162.jpg" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/8ea0dac2-124e-4f71-9c53-cc2c8bc46fde.jpg" width="150" style="margin: 10px;">
+        </td>
+   </tr>  
+</div>
+
+   <hr>
+   <table align="center">
+     
+   <tr>
+     <td align="center">   
+              BRGY 346 System: Web-Based Barangay Information and Management System
+  <img alt="Coding" width="750" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-08%20210500.png" >
+  </td>
+     <hr>
+   <table align="center">
+     
+   <tr>
+     <td align="center">   
+              Optical Character Recognition Screenshot to Text (tesseract)     
+              <p>The most common tesseract definition is a 4th-dimension analogue for a cube. That definition may not be particularly intuitive, as it requires an understanding of several concepts in geometry and physics. Essentially, a tesseract is a way of visualizing the concept of time in a four-dimensional universe.</p>
+  <img alt="Coding" width="750" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/Annotation%202026-02-08%20233526.png" >
+  </td>
+
+</table>
+
+   <hr>
+   <table align="center">
+      Devbox: Social Media Website
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/home.png" >
+  </td>
+
+</table>
+
+<table align="center">
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/home.png" >
+  </td>
+  <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/settings.png" >
+   <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/signin.png" >
+   
+  </td>
+   </tr>  
+</table>
+
+<hr>
+    
+<table align="center">
+   <tr>
+        ConnectUs and WeboCode: School Project
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.26.06%20AM.png" >
+  </td>
+  <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.23.53%20AM.png" >
+   
+  </td>
+   </tr>  
+</table>
+
+
+   
+<table align="center">
+ 
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.25.35%20AM.png" >
+  </td>
+   <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/main/Screenshot%202024-07-20%202.24.27%20AM.png" >
+  </td>
+  
+  
+  </td>
+   </tr>  
+</table>
+<hr>
+<br>
+
+<table align="center">
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/webocode/main/Screenshot%202024-01-24%205.51.21%20AM.png" >
+  </td>
+  <td align="center">
+  <img  alt="Coding" width="450" src="https://github.com/ragnvindr08/imagesrc/blob/main/Screenshot%202024-06-16%203.35.13%20PM.png?raw=true" >
+    <td align="center">
+  <img  alt="Coding" width="450" src="https://raw.githubusercontent.com/ragnvindr08/webocode/main/Screenshot%202023-12-19%204.41.27%20AM.png" >
+  </td>
+  </td>
+   </tr>  
+</table>
+   
+<table align="center">
+   <tr>
+     <td align="center">   
+  <img alt="Coding" width="450" src="https://github.com/ragnvindr08/imagesrc/blob/main/Screenshot%202024-06-18%203.02.41%20PM.png" >
+  </td>
+  <td align="center">
+  <img  alt="Coding" width="450" src="https://github.com/ragnvindr08/imagesrc/blob/main/Screenshot%202024-06-16%203.35.40%20PM.png?raw=true" >
+    <td align="center">
+  <img  alt="Coding" width="450" src="https://github.com/ragnvindr08/imagesrc/blob/main/Screenshot%202024-06-18%202.55.26%20PM.png?raw=true" >
+  </td>
+  </td>
+   </tr>  
+</table>
+<hr>
+
+
+ 
