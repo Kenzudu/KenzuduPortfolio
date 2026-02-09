@@ -109,7 +109,7 @@ Here you'll find my academic and personal projects related to:
    <table align="center">
       <tr>
      <td align="center">
-Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation System
+
    <div align="center"   justify-content: center;">
     
   <img src="Loginpage.png" width="200" style="margin: 10px;">
