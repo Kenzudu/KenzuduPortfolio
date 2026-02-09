@@ -111,7 +111,7 @@ Here you'll find my academic and personal projects related to:
      <td align="center">
 Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation System
    <div align="center"   justify-content: center;">
-    <img src="Signup.png" width="200" style="margin: 10px;">
+    
   <img src="Loginpage.png" width="200" style="margin: 10px;">
   <img src="AccountAppSettings.png" width="200" style="margin: 10px;">
   <img src="SchedulingPage.png" width="200" style="margin: 10px;">
