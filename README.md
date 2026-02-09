@@ -104,13 +104,13 @@ Here you'll find my academic and personal projects related to:
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="Signup.png" width="200" style="margin: 10px;">
-  <img src="Loginpage.png" width="200" style="margin: 10px;">
-  <img src="AccountAppSettings.png" width="200" style="margin: 10px;">
-  <img src="SchedulingPage.png" width="200" style="margin: 10px;">
-  <img src="SchedulingPage2.png" width="200" style="margin: 10px;">
-  <img src="HistoryPage.png" width="200" style="margin: 10px;">
-  <img src="MainPage.png" width="200" style="margin: 10px;">
+  <img src="images/Signup.png" width="200" style="margin: 10px;">
+  <img src="images/Loginpage.png" width="200" style="margin: 10px;">
+  <img src="images/AccountAppSettings.png" width="200" style="margin: 10px;">
+  <img src="images/SchedulingPage.png" width="200" style="margin: 10px;">
+  <img src="images/SchedulingPage2.png" width="200" style="margin: 10px;">
+  <img src="images/HistoryPage.png" width="200" style="margin: 10px;">
+  <img src="images/MainPage.png" width="200" style="margin: 10px;">
 
 </div>
 
