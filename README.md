@@ -22,7 +22,7 @@ BSIT Student • EARIST Manila • OJT/Intern Applicant
 
 ## About Me
 
-I am a motivated BSIT student with hands-on experience in web and mobile application development. I enjoy building systems that solve real-world problems and continuously improving my programming skills through projects and collaboration.
+I am a motivated BSIT student with hands-on experience in web and mobile application development, currently expanding my knowledge in cybersecurity. I enjoy building systems and continuously improving my programming skills through personal projects, teamwork, and collaborative learning. I am eager to apply my technical skills to real-world solutions while continuing to grow as an IT professional.
 
 ---
 
