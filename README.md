@@ -111,10 +111,13 @@ Here you'll find my academic and personal projects related to:
      <td align="center">
 Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation System
    <div align="center"   justify-content: center;">
-  <img src="https://github.com/ragnvindr08/imagesrc/blob/main/610587319_1590886205280174_8160895672511828396_n.png" width="380" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/610747088_1370355281025682_1225899929002174405_n.png" width="320" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/imagesrc/refs/heads/main/611128225_2885709748286634_4991605091445512007_n.png" width="350" style="margin: 10px;">
-  <img src="https://github.com/ragnvindr08/imagesrc/blob/main/619725457_906689418374717_7797343942134035975_n.png?raw=true" width="430" style="margin: 10px;">
+    <img src="Signup.png" width="200" style="margin: 10px;">
+  <img src="Loginpage.png" width="200" style="margin: 10px;">
+  <img src="AccountAppSettings.png" width="200" style="margin: 10px;">
+  <img src="SchedulingPage.png" width="200" style="margin: 10px;">
+  <img src="SchedulingPage2.png" width="200" style="margin: 10px;">
+  <img src="HistoryPage.png" width="200" style="margin: 10px;">
+  <img src="MainPage.png" width="200" style="margin: 10px;">
   </td>
    </tr>  
 </table>
