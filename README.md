@@ -100,18 +100,48 @@ Here you'll find my academic and personal projects related to:
 <img width="90" height="auto" alt="image" src="https://github.com/user-attachments/assets/5b92bc1f-56b3-4155-9de3-bad87f44a406" />
 
 
+
+   <br>
+   <hr>
+   <h3 align="center">My Projects</h3>
   
+ Capstone:AI Powered Internship System for Eulogio “Amang” Rodriguez Institute of Science and Technology - Manila
+
+  <img src="images/EARIST1.jpg" width="450" style="margin: 10px;">
+  <img src="images/EARIST2.jpg" width="450" style="margin: 10px;">
+  <img src="images/EARIST3.jpg" width="450" style="margin: 10px;">
+  <img src="images/EARIST4.jpg" width="450" style="margin: 10px;">
+  <img src="images/EARIST5.jpg" width="450" style="margin: 10px;">
+  <img src="images/EARIST6.jpg" width="450" style="margin: 10px;">
+  <img src="images/EARIST7.jpg" width="450" style="margin: 10px;">
+  <img src="images/EARIST8.jpg" width="450" style="margin: 10px;">
+
+  <p style="margin-top:15px;">
+    This system is designed to help OJT/Intern students match their course and skills based on the job that they need.
+  </p>
+
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="images/Signup.png" width="200" style="margin: 10px;">
+
+
+
+   <br>
+   <hr>
+   <h3 align="center">My Projects</h3>
+   <table align="center">
+      <tr>
+     <td align="center">
+Hydrate Your Farm: Water Irrigation System for Farms
+   <div align="center"   justify-content: center;">
+   <img src="images/Signup.png" width="200" style="margin: 10px;">
   <img src="images/Loginpage.png" width="200" style="margin: 10px;">
   <img src="images/AccountAppSettings.png" width="200" style="margin: 10px;">
   <img src="images/SchedulingPage.png" width="200" style="margin: 10px;">
   <img src="images/SchedulingPage2.png" width="200" style="margin: 10px;">
   <img src="images/HistoryPage.png" width="200" style="margin: 10px;">
   <img src="images/MainPage.png" width="200" style="margin: 10px;">
-
+  </td>
+   </tr>  
+</table>
 </div>
-
    
