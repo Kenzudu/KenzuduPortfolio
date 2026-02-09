@@ -103,41 +103,4 @@ Here you'll find my academic and personal projects related to:
   
 </div>
 
-   <br>
-   <hr>
-   <h3 align="center">My Projects</h3>
-   <table align="center">
-      <tr>
-     <td align="center">
-
-   <div align="center"   justify-content: center;">
-    
-  <img src="Loginpage.png" width="200" style="margin: 10px;">
-  <img src="AccountAppSettings.png" width="200" style="margin: 10px;">
-  <img src="SchedulingPage.png" width="200" style="margin: 10px;">
-  <img src="SchedulingPage2.png" width="200" style="margin: 10px;">
-  <img src="HistoryPage.png" width="200" style="margin: 10px;">
-  <img src="MainPage.png" width="200" style="margin: 10px;">
-  </td>
-   </tr>  
-</table>
-</div>
-
-
-   <table align="center">
-            <tr>
-     <td align="center">
-        
-   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/77b5038b-2370-409f-8718-7675414407a4.jpg" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/b462a168-a79c-4093-b2f1-0b45a918559e.jpg" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/0524148d-abe1-4ca4-85f1-a421e001b5a6.jpg" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/385dd470-20ed-4f89-9a40-fab840365b48.jpg" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/62e4ea98-5680-4bac-87a2-7c6bc3fc9d9d.jpg" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/680e4820-bd00-440e-a3c9-410d31793acb.jpg" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/87ce681d-be69-4bbc-8450-67493b524162.jpg" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/8ea0dac2-124e-4f71-9c53-cc2c8bc46fde.jpg" width="150" style="margin: 10px;">
-        </td>
-   </tr>  
-</div>
-
+   
