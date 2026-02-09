@@ -127,7 +127,7 @@ Capstone Project: HomeEase: Web-Based Homeowner Information and Reservation Syst
    <table align="center">
             <tr>
      <td align="center">
-        AgriAssist: A Mobile-Based Support Tool and Information
+        
    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/77b5038b-2370-409f-8718-7675414407a4.jpg" width="150" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/ragnvindr08/AgriAssistApp/refs/heads/master/b462a168-a79c-4093-b2f1-0b45a918559e.jpg" width="150" style="margin: 10px;">
